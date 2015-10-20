@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	width: 320px;
+	background-image: url(../../images/sml/sml_bg_fruit.jpg);
+	background-position:center top;
+}
+#logo {
+	height:82px;
+	width:270px;
+	background-image: url(../../images/sml/sml_logo.png);
+	margin-left:auto;
+	margin-right:auto;
+}
+nav {padding-top:85px !important;
+	margin-left:10px;
+}
+#maincontent {
+	padding:0;
+}
+nav ul {
+	font-size:16px;
+	margin-right:10px;
+}
+nav ul li{clear:both;}
+nav ul li:hover {
+	margin-top:0;
+}
+nav ul a:link, nav ul a:visited {
+	padding: 3px;
+	width:260px;
+	text-align:center;
+}
+#vision {
+	clear:both;
+	background-image:none;
+	width: 280px;
+	height:auto;
+	font-size:16px;
+}
+.pod {
+	width: 305px;
+}
+.podContent {
+	width: 302px;
+	height:180px;
+}
+#facebookTwitter {
+	margin-right:10px;
+}
